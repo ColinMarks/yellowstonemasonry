@@ -1,2 +1,1 @@
-# yellowstonemasonry
-Hello world
+# Website for Yellowstone Masonry
